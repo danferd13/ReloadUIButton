@@ -1,6 +1,7 @@
 # ReloadUIButton
 
 A World of Warcraft addon that adds a convenient button to quickly reload the UI.
+Heavily Inspired by the WA that was the same. 
 
 ## Features
 
