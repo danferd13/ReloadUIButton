@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120000, 120005, 120007
 ## Title: Reload UI Button
 ## Notes: Adds a Reload UI button to the Game Menu
 ## Author: Danferd13
