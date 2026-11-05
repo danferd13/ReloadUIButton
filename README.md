@@ -10,16 +10,23 @@ Heavily Inspired by the WA that was the same.
 - **Convenient Access** - Quickly reload your UI without using the `/reload` command
 - **Lightweight** - Minimal performance impact
 
+## Supported Versions
+
+- **Retail (Midnight)** - patch 12.1.5 (Interface 120105)
+- **World of Warcraft: Forever** - Interface 16001
+
 ## Installation
 
 1. Download the addon files
-2. Extract the contents into your WoW `Interface/AddOns/` folder
+2. Extract the `ReloadUIButton` folder into your AddOns folder:
+   - Retail: `World of Warcraft/_retail_/Interface/AddOns/`
+   - WoW Forever: `World of Warcraft/_forever_/Interface/AddOns/`
 3. Restart World of Warcraft or use `/reload` to load the addon
 4. The ReloadUIButton should now be available
 
 ## Usage
 
-Simply click the ReloadUIButton to reload your user interface. This is useful when:
+Press ESC to open the Game Menu and click **Reload UI** at the bottom to reload your user interface. This is useful when:
 - Installing or updating addons
 - Testing addon changes
 - Troubleshooting UI issues
@@ -27,7 +34,8 @@ Simply click the ReloadUIButton to reload your user interface. This is useful wh
 
 ## Commands
 
-- `/reload` - Reload the UI (in-game command)
+- `/reload` - Reload the UI (built-in command)
+- `/rl` - Short alias added by this addon
 
 ## Support
 
