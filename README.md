@@ -8,6 +8,7 @@ Heavily Inspired by the WA that was the same.
 
 - **Quick Reload Button** - Adds a button to your interface for easy UI reloading
 - **Convenient Access** - Quickly reload your UI without using the `/reload` command
+- **Plays nice with other addons** - If another addon puts its own button above the Game Menu, the Reload UI button moves up so it isn't hidden behind it
 - **Lightweight** - Minimal performance impact
 
 ## Supported Versions

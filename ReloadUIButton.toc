@@ -2,7 +2,7 @@
 ## Title: Reload UI Button
 ## Notes: Adds a Reload UI button to the Game Menu
 ## Author: Danferd13
-## Version: 1.1
+## Version: 1.2
 ## Category: Interface Enhancements
 
 ReloadUIButton.lua
